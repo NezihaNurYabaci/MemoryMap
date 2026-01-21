@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "684802068676",
+    "project_id": "memorymapp-neziha-2026",
+    "storage_bucket": "memorymapp-neziha-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684802068676:android:8c1a1dd827dad3fe21b991",
+        "android_client_info": {
+          "package_name": "com.example.memorymapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684802068676-lombp6ffjfntkpn37jt38485vvj6f248.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.memorymapp",
+            "certificate_hash": "ed75b3e5181ef477bd8ccab543d709ec28e8f9c8"
+          }
+        },
+        {
+          "client_id": "684802068676-mtvln37oe0t8uk29vbdmqge8v95cbg2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1pSXnil_ioRjzT6IfGgcSPgCuNpEw7A8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684802068676-mtvln37oe0t8uk29vbdmqge8v95cbg2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
